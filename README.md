@@ -1,13 +1,13 @@
 Program #3
 
-Name:
+Name:Jason Richmond
 
 COSC 2030
 
-Competing: YES or NO
+Competing: NO
 
-Best run time:
+Best run time: 19.8 seconds
 
 How to compile: 
 
-Anything that doesn't work:
+Anything that doesn't work: N/A
