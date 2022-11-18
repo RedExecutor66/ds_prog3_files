@@ -1,13 +1,13 @@
 Program #3
 
-Name:
+Name: Jason Richmond
 
 COSC 2030
 
-Competing: YES or NO
+Competing: NO
 
-Best run time:
+Best run time: 7.6 seconds
 
-How to compile: 
+How to compile: g++ Program3.cpp
 
-Anything that doesn't work:
+Anything that doesn't work: N/A
